@@ -9,4 +9,7 @@ duckduckgo_search
 numpy==1.26.4
 flask
 flask_cors
-setuptools
+setuptools>=65.0
+cython
+wheel
+pandas==1.5.3
