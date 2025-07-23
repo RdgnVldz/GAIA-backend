@@ -1,5 +1,8 @@
 python-dotenv
-streamlit==1.30.0
+streamlit==1.29.0  
+pillow==9.5.0      
+protobuf==4.25.0   
+pydantic==2.11.0  
 gunicorn
 langchain-groq==0.1.9
 langgraph==0.2.1
