@@ -1,5 +1,5 @@
 python-dotenv
-sstreamlit==1.30.0
+sstreamlit
 gunicorn
 langchain-groq==0.1.9
 langgraph==0.2.1
