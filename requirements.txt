@@ -1,8 +1,5 @@
 python-dotenv
-streamlit==1.29.0  
-pillow==9.5.0      
-protobuf==4.25.0   
-pydantic==2.11.0  
+streamlit
 gunicorn
 langchain-groq==0.1.9
 langgraph==0.2.1
@@ -12,8 +9,4 @@ duckduckgo_search
 numpy==1.26.4
 flask
 flask_cors
-setuptools>=67.0
-pip>=23.0
-wheel>=0.40.0
-cython
-pandas==1.5.3
+setuptools
